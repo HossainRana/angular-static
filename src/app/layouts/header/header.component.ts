@@ -8,27 +8,17 @@ import { MatDialog, MatDialogRef } from '@angular/material/dialog';
 })
 
 export class HeaderComponent implements OnInit {
-  public show:boolean = true;
-  public navToggle:any = 'Show';
+  isVisible = false;
 
   constructor(public dialog: MatDialog) { }
 
   ngOnInit() {
-    if (window.screen.width > 991){
-      this.navToggle ="Show"
-    }
-  };
 
+  };
   toggle() {
-    if (window.screen.width <= 991){
-      console.log('mobile view');
-      this.show = !this.show;
-      if(this.show)
-        this.navToggle = "Hide";
-      else
-        this.navToggle = "Show";
-    }
+    this.isVisible = !this.isVisible;
   }
+
 
   update(): void {
 

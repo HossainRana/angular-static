@@ -11,7 +11,7 @@
 }
 #header .navbar-brand{
   width: 200px;
-  padding: 15px 0;
+  padding: 13px 0;
 }
 #header nav .navbar-collapse ul{
   margin-left: auto !important;
@@ -212,4 +212,12 @@ section.header {
 
   color: #ffffff;
 }
+.hidden {
+  display: none;
+}
+#site-nav > ul > li.nav-item.dropdown > a{
 
+}
+body > div > div.cdk-overlay-connected-position-bounding-box{
+  position: absolute;
+}
