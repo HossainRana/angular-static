@@ -1,0 +1,1384 @@
+
+.title, .breadcrumbs{
+
+  z-index: 5 !important;
+
+
+}
+
+.accordion-body {
+  padding: 0 !important;
+}
+
+@media screen and (max-width: 1024px) and (min-width: 991px) {
+
+
+  .sign-up-sec .bg{
+    width: 75% !important;
+    margin: 10px 0;
+    padding: 20px 80px!important;
+  }
+/* ======================================= */
+  .user-prof-mobile .inner-content{
+
+    height: 362px !important;
+  }
+/* ===================================== */
+  .job-proposal .col-first .content h4{
+    font-size: 28px !important;
+
+  }
+ /* ==================================== */
+
+  .help-content h4{
+    font-size: 36px !important;
+    margin-top: 0px !important;
+
+  }
+  .help-content p{
+
+    font-size: 14px !important;
+  }
+  .help-section .row{
+
+    padding: 15px 5px 15px 30px !important;
+  }
+
+
+  /* ==============Job details===================== */
+
+.job-details-mybids .content .job-details-h4{
+  font-size: 19px !important;
+  line-height: 30px !important;
+}
+.job-details-mybids .list-margin{
+  margin: 0px 40px 0px 0px !important;
+
+}
+.job-details-mybids .content-link{
+
+font-size: 12px !important;
+}
+.col-change .image-1{
+width: 50px !important;
+margin: 14px 29px 0px 15px !important;
+}
+.col-change .text-change{
+font-size: 25px !important;
+}
+.col-change .outer-text-1{
+padding: 20px 28px 14px 0px !important;
+
+}
+.col-change .image2{
+width: 80px !important;
+margin: 0px 0px 0px 15px !important;
+}
+
+.col-change .outer-text-2{
+line-height: 20px !important;
+padding: 0px 25px 0px 10px !important;
+}
+.col-change table tr td{
+
+padding-bottom: 15px !important;
+
+}
+
+.click-to-save{
+
+padding: 12px 48px !important;
+}
+
+.background-main .skills .list-margin-bottom{
+  margin: 0px 14px 0px 0px !important;
+  padding: 4px 20px !important;
+  font-size: 14px !important;
+
+}
+
+  /* ======================================================= */
+  .footer{
+
+    bottom: -8% !important;
+  }
+  .nav-bar{
+    display: none!important;
+  }
+  .mobile-nav{
+    display: block!important;
+  }
+  .scrolled .strip div{
+    background: #4EABF2!important;
+  }
+  .burger{
+    margin: 0 !important;
+    float: right !important;
+  }
+  .strip div {
+    background: #4EABF2 !important;
+}
+.cdk-overlay-connected-position-bounding-box{
+  top: 89px !important;
+  right: 29px !important;
+  height: auto !important;
+  width: auto !important;
+  left: auto !important;
+}
+.market-place-sec-1 .main-sec{
+
+  max-width: 96%!important;
+
+}
+section.my-bids-1 .col-sm-9 .my-bids-cont h4{
+
+  font-size: 15px !important;
+}
+.market-place-sec-1 .main-sec{
+
+  max-width: 96%!important;
+
+}
+.marketing-sec-3 .col-sm-3  h4{
+
+  font-size: 22px !important;
+
+}
+.marketing-sec-3 .col-sm-3  p{
+
+  line-height: 21px !important;
+  padding: 0px 32px !important;
+
+}
+.scrolled .strip div{
+
+  background: white !important;
+
+}
+
+section.second .col-sm-3 {
+  padding: 9px !important;
+  width: 50% !important;
+  height: 368px !important;
+}
+
+}
+@media screen and (max-width: 990px) and (min-width: 768px) {
+  
+  .user-prof-mobile .inner-content{
+
+    height: 267px !important;
+  }
+} 
+@media screen and (max-width: 1023px) and (min-width: 768px) {
+
+  .last-table{
+    margin-bottom: 50px !important;
+  }
+  .payment-1{
+    margin: 0px 0px 197px 0px !important;
+  }
+  /* ======================================== */
+  .sign-up-sec .bg{
+    width: 96% !important;
+    margin: 0 50px 0 0;
+    background: green;
+  }
+  /* ==================================================== */
+  section.account-sec-1 .nav-pills .nav-link.active,
+  .heading-sec h2,
+  section.account-sec-1 .nav-pills .nav-link{
+    font-size: 16px !important;
+  }
+  section.account-sec-1  .desc{
+
+    padding: 18px 0px 18px 2px !important;
+  }
+  section.account-sec-1  .desc p{
+    font-size: 12px !important;
+  }
+  .desc .option-sec-2 .field .example-container .mat-form-field
+  {
+    width: 96% !important;
+    margin: 0px 0px 0px 6px !important;
+  }
+
+  .sec-2-text{
+    margin: 0px 0px 0px 10px !important;
+    font-size: 12px !important;
+  }
+  .account-sec-2{
+    margin-bottom: 50px !important ;
+
+  }
+  /* ============================= */
+  .change-row .col-sm-3{
+    width: 32% !important;
+  }
+
+  .profile-pic {
+    margin: 13px 0px 0px 14px !important;
+  }
+  /* ===================================== */
+  .job-proposal .col-first .content h4{
+    font-size: 20px !important;
+
+  }
+  .job-proposal .col-first .content .item-tags{
+
+    font-size: 14px !important;
+  }
+
+  .job-proposal .content .item-tags .list-margin{
+    margin: 0px 23px 0px 0px;
+  }
+.job-proposal-2 .bg .row .col-sm-2{
+
+  width: 20% !important;
+}
+  /* ======================================== */
+
+  .help-content h4{
+    font-size: 26px !important;
+    margin-top: 0px !important;
+
+  }
+  .help-content p{
+
+    font-size: 12px !important;
+  }
+  .help-section .row{
+
+    padding: 15px 5px 15px 20px !important;
+  }
+  /* ++++++++++++++++++++++++++++++++== */
+  .job-details-1 .col{
+    padding: 0px !important;
+
+  }
+
+  .job-details-mybids .content .job-details-h4{
+    font-size: 19px !important;
+    line-height: 30px !important;
+  }
+  .job-details-mybids .list-margin{
+    margin: 0px 40px 0px 0px !important;
+
+  }
+.job-details-mybids .content-link{
+
+  font-size: 12px !important;
+}
+.col-change .image-1{
+  width: 50px !important;
+  margin: 14px 29px 0px 15px !important;
+}
+.col-change .text-change{
+  font-size: 25px !important;
+}
+.col-change .outer-text-1{
+  padding: 20px 28px 14px 0px !important;
+
+}
+.col-change .image2{
+  width: 80px !important;
+  margin: 0px 0px 0px 15px !important;
+}
+
+.col-change .outer-text-2{
+  line-height: 20px !important;
+  padding: 0px 25px 0px 10px !important;
+}
+.col-change table tr td{
+
+padding-bottom: 15px !important;
+
+}
+
+.click-to-save{
+
+  padding: 12px 48px !important;
+}
+
+.table-1 td{
+display: grid !important;
+
+}
+
+.table-1 .change-table{
+
+  border-top: 1px solid #D0D0D0 !important;
+    border-bottom: 1px solid #D0D0D0 !important;
+    border-left: 0px !important;
+    border-right: 0px !important;
+}
+
+.background-main .skills .list-margin-bottom{
+  margin: 0px 8px 0px 0px !important;
+  padding: 2px 15px !important;
+  font-size: 12px !important;
+
+}
+  .cdk-overlay-connected-position-bounding-box {
+    top: 89px !important;
+    right: 29px !important;
+    height: auto !important;
+    width: auto !important;
+    left: auto !important;
+  }
+  section.my-bids-1 .col-sm-9{
+
+      width: 98% !important;
+  }
+  section.my-bids-1 .col-sm-9 .my-bids-cont h4{
+
+    font-size: 15px !important;
+  }
+.mybids ul li{
+  font-size: 12px;
+
+}
+.mybids .col-sec h3,
+.mybids .col-third h3{
+
+  font-size: 16px !important;
+  line-height: normal !important;
+}
+.mybids .col-sec p,
+.mybids .col-third p{
+  font-size: 12px !important;
+  line-height: normal !important;
+
+}
+.my-bids-1 .col-sm-3{
+  width: 100%;
+}
+
+
+.sidebar-lists .row{
+  padding: 12px !important;
+}
+.bids-sidebar{
+
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 16px;
+  margin-bottom: 30px;
+}
+.mybids .row{
+  width: 100% !important;
+  margin: 0 auto !important;
+  margin-bottom: 20px !important;
+
+}
+  section.second{
+    width: 96% !important;
+    margin: 0 auto !important;
+
+  }
+
+  section.avialable .text-sec{
+    padding-left: 16px !important;
+    width: 48vw !important;
+  }
+  section.avialable .text-sec .item p{
+    font-size: 12.5px !important;
+    line-height: 25px !important;
+  }
+  section.amazing-features .container{
+    max-width: 96% !important;
+    margin-bottom: 40px !important;
+
+  }
+
+  section.last{
+    height: 39vw !important;
+
+  }
+  section.last h4{
+
+    font-size: 22px !important;
+    line-height: 31px !important;
+    margin-top: 4vw !important;
+
+  }
+  section.last .text-sec p{
+    font-size: 12.5px !important;
+    line-height: 26px !important;
+
+    margin: 11px 0px !important;
+  }
+.footer{
+  bottom: 0 !important;
+}
+.section.services{
+  height: 866px !important;
+}
+  section.mobile .container
+  .txt-sec p,
+  section.mob-2 .container .text-sec p{
+
+    margin: 16px 0px !important;
+    font-size: 18.5px !important;
+    line-height: 37px !important;
+  }
+  section.email p{
+    width: 100% !important;
+  }
+  section.services h1{
+
+    margin-top: 38px !important;
+    margin-left: 98px !important;
+    font-size: 79px !important  ;
+  }
+
+  section.services .img2 img{
+    top: 32px !important;
+    left: 75px !important;
+  }
+
+  section.services .img1 img{
+    left: 232px !important;
+    top: -71px !important;
+  }
+  section.services .cards .cards-in{
+
+    height: 230px !important;
+  }
+  section.services .cards{
+    margin-top: 130px !important;
+  }
+
+  section.amazing-features h3{
+    text-align: center;
+
+  }
+  section.amazing-features .features{
+    display: block !important;
+  }
+
+  section.amazing-features .features > p{
+
+    width: 100% !important;
+  }
+  section.amazing-features .features .image p{
+
+    width: 100% !important;
+    font-size: 16.5px !important;
+    line-height: 28px !important;
+  }
+  section.amazing-features .features .image h5{
+    font-size: 26px !important;
+  }
+
+  section.amazing-features .features .image{
+    width: 100% !important;
+
+  }
+  section.second .col-sm-3{
+    padding: 9px !important;
+    width: 50% !important;
+    height: 270px !important;
+  }
+  .nav-bar{
+    display: none!important;
+  }
+  .mobile-nav{
+    display: block!important;
+  }
+  .scrolled .first-strip .strip div{
+    background: #4EABF2!important;
+  }
+  .burger{
+    margin: 0 !important;
+    float: right !important;
+  }
+  .strip div {
+    background: #4EABF2  !important;
+}
+.sec-header-strip .strip div {
+  background: #ffffff !important;
+}
+.market-place-sec-1 .main-sec{
+
+  max-width: 96%!important;
+
+}
+.marketing-sec-3 .col-sm-3  h4{
+
+  font-size: 17px !important;
+
+}
+.marketing-sec-3 .col-sm-3  p{
+
+  line-height: 13px !important;
+    padding: 0px 18px !important;
+    font-size: 10px !important;
+
+}
+.marketing-sec-3[_ngcontent-sir-c123] a[_ngcontent-sir-c123]{
+
+  width: 51% !important;
+  padding: 4px !important;
+  font-size: 10px !important;
+}
+
+.market-place-sec-1 .main-sec .banner .right-sec h1{
+  font-size: 30px !important;
+
+}
+
+.market-place-sec-1 .main-sec
+.banner .right-sec .search-sec form
+.search input{
+
+  font-size: 13px !important;
+}
+.market-place-sec-1 .main-sec .banner .left-sec img{
+  width: 64% !important;
+
+}
+
+.market-place-sec-1 .main-sec .banner .right-sec .how-it-works-sec
+ .left-sec .play-button{
+  padding: 10px 0px 10px 10px !important;
+}
+.market-place-sec-2 .card p{
+  font-size: 12px!important;
+    line-height: 20px!important;
+}
+.mat-expansion-panel-header-title h5{
+  font-size: 16px !important;
+}
+.market-place-sec-4 .col-sm-6 h1{
+
+  font-size: 28px!important;
+}
+.footer .row .col-sm-6{
+
+  width: 100% !important;
+}
+.marketing-sec-3 a{
+  width: 44% !important;
+  font-size: 10px !important  ;
+  line-height: 10px !important;
+
+}
+.scrolled .strip div{
+
+  background: white !important;
+
+}
+
+
+}
+
+@media screen and (max-width: 767px) and (min-width: 300px) {
+
+
+
+  .payment-1 .nav-pills .nav-link{
+
+    border-bottom: 3px solid #fafafa !important;
+
+  }
+  .nav-pills .nav-link.active, .nav-pills .show > .nav-link{
+    border-bottom: 3px solid #7ABEFF !important;
+
+
+  }
+
+  /* ================================== */
+  .user-prof-1 .title-main{
+
+    margin-top: 40px !important;
+  }
+
+  /* ==================================== */
+  .page-list{
+
+    width: 96% !important;
+    margin: 20px auto !important;
+  }
+  .nav-bar {
+    display: none !important;
+  }
+
+  .main-menu .row .col-sm-3 {
+    width: 76%;
+  }
+
+  .burger {
+    margin: 0 !important;
+  }
+
+  .strip div {
+    background: #4EABF2 !important;
+  }
+
+  .banner {
+    margin: 0px !important;
+  }
+
+  .banner::after {
+    top: 0px !important;
+
+  }
+
+  .header .container {
+    width: 96% !important;
+  }
+
+  .bg-black-1 {
+    padding: 0px 12px !important;
+  }
+
+  .mobile-nav {
+
+    display: block !important;
+  }
+
+  .bg-black-1 .mobile-nav {
+    float: right;
+    top: 14px;
+    position: absolute;
+    right: 15px;
+  }
+
+  .bg-black-1 .mobile-nav .strip div {
+    background: white !important;
+
+  }
+
+
+  /* ========================my bids page */
+  .mybids {
+    box-shadow: none !important;
+  }
+
+  .mybids .col-first {
+    width: 88% !important;
+    margin-top: 10px !important;
+  }
+
+  .mybids .content-link {
+
+    padding: 4px 24px !important;
+
+  }
+  .my-bids-cont h4 {
+    font-size: 14px !important;
+  }
+
+  .col-sec h3, .col-third h3{
+    font-size: 14px !important;
+    line-height: 25px !important;
+  }
+  .col-sec p, .col-third p{
+    font-size: 12px !important;
+  }
+  .col-sec img, .col-third img{
+    margin: 8px 0px 8px 0px !important;
+    width: 40px !important;
+  }
+  .col-sidebar img{
+    margin: 12px 17px !important;
+  }
+  .sidebar-lists .col {
+    margin: 10px 10px !important;
+
+  }
+
+  .flag {
+    font-size: 20px !important;
+    left: 22px !important;
+  }
+
+  .flag-img {
+    width: 10% !important;
+  }
+
+  h4 {
+    font-size: 15px;
+  }
+
+  p {
+    font-size: 12px;
+
+  }
+
+  .my-bids-cont ul {
+    font-size: 10px;
+  }
+
+  .bids-2 {
+    width: 44%;
+    margin: 16px 4px 0px !important;
+    padding: 15px 0px !important;
+    z-index: 1;
+  }
+
+  .completed-jobs {
+    padding: 19px 11px !important;
+    margin: 20px 0px !important;
+  }
+
+  .bids-sidebar {
+    margin-bottom: 40px;
+  }
+
+  .bids-sidebar .row {
+    width: 100%;
+    margin: 0;
+  }
+
+  .col-sidebar {
+    width: 20%;
+  }
+
+  /* =================================job Details page */
+
+  .job-details-h4 {
+    font-size: 16px !important;
+    line-height: 24px !important;
+  }
+  .job-details-mybids .content {
+    padding: 10px 30px 30px !important;
+}
+  .list-margin {
+    margin: 0px 28px 0px 0px !important;
+    font-size: 12px;
+  }
+
+  .button-link {
+    float: none !important;
+  }
+
+  .content-link {
+    font-size: 12px !important;
+    padding: 13px 90px !important;
+  }
+
+  .listing-sec p {
+
+    margin-bottom: 5px !important;
+  }
+
+  .background-main {
+    font-size: 12px !important;
+    line-height: 16px !important;
+    padding: 20px !important;
+    width: 96% !important;
+    margin: 0 auto;
+  }
+
+  .change {
+    width: 96% !important;
+    margin: 10px auto !important;
+    padding: 0px !important;
+  }
+
+  .sec-3-cont h4 {
+
+    font-weight: 600;
+    font-size: 24px;
+    /* line-height: 39px; */
+    color: #374550;
+    padding: 24px 0px 18px;
+    border-bottom: 2px solid #D0D0D0;
+    margin: 0px 7px;
+  }
+
+  .list-margin-bottom {
+    margin: 2px !important;
+    font-size: 10px !important;
+    padding: 0px 16px !important;
+  }
+  .col-change{
+    padding: 26px 26px !important;
+  }
+  .inner-items li {
+    font-size: 12px !important;
+    line-height: 16px !important;
+  }
+
+  /* ================================Listing Page  */
+  .min-width {
+    display: none;
+  }
+
+  .space {
+    margin: 9px auto !important;
+    width: 96% !important;
+  }
+
+  .mobile-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .mobile-list .content-link {
+    padding: 4px 20px !important;
+  }
+
+  .job-items {
+    font-size: 12px !important;
+  }
+
+  .view-job {
+    width: 100% !important;
+    font-size: 14px !important;
+  }
+
+  .listing-sec {
+    padding: 0px 27px !important;
+  }
+
+  .content-row {
+
+    margin-bottom: 10px;
+
+  }
+
+  /* ======================help& Support */
+  .help-section {
+    width: 96%;
+    margin: 15px auto;
+  }
+
+  .help-section .row {
+
+    padding: 26px 30px !important;
+    margin-bottom: 16px !important;
+  }
+
+  .help-section h4 {
+    font-size: 20px !important;
+    margin-top: 10px !important;
+    line-height: 40px !important;
+  }
+
+  .help-content img {
+    width: 100% !important;
+    float: none !important;
+  }
+
+  .help-content-2 img {
+    padding: 10px 29px !important;
+  }
+
+  .help-section p {
+    font-size: 12px !important;
+    line-height: 21px !important;
+  }
+
+  .orange-button,
+  .blue-button,
+  .pink-button {
+    font-size: 12px !important;
+  }
+
+  .list-strip {
+    padding: 0px !important;
+  }
+
+  .bg-orange {
+    margin-top: 10px;
+  }
+
+  .job-proposal h4 {
+    font-size: 16px !important;
+    line-height: 22px !important;
+  }
+
+  .proposal-amount {
+    width: 90% !important;
+  }
+
+  /* ==========================user profile================ */
+  .bg-change {
+    padding: 10px 0px 0px 0px !important;
+  }
+
+  .user-prof-3 .inner-content {
+    height: 374px !important;
+  }
+
+  .user-prof-3 .inner-content .profile-pic {
+    width: 60%;
+    margin: 16px 0px 0px 0px !important;
+  }
+
+  .user-prof-mobile {
+    margin: 0px 0px 10px 0px;
+  }
+
+  .user-prof-3 .col-sm-12 {
+
+    margin: 35px 0px !important;
+  }
+
+  .p-text {
+    text-align: justify !important;
+  }
+
+  .user-prof-2 .change-row {
+    text-align: center !important;
+  }
+
+  /* ==============================Landing page=============== */
+  .landing-nav .links ul li {
+    margin: 0px 0px 0px 0px;
+  }
+
+  .section.banner .mid-sec {
+    padding: 85px 0px 0px 0px !important;
+  }
+
+  section.banner .mid-sec h2 {
+
+    font-size: 25px !important;
+
+  }
+
+  section.banner .mid-sec p {
+    padding: 0px 212px;
+  }
+
+  section.second .col-sm-3 {
+    height: 276px;
+  }
+
+  section.amazing-features h3 {
+    text-align: center;
+    font-size: 25px;
+  }
+
+  section.amazing-features .features>p {
+    width: 100% !important;
+    text-align: justify !important;
+    font-size: 19.5px !important;
+    line-height: 33px !important;
+    margin: 20px 0px 50px 0px !important;
+  }
+
+  section.amazing-features .features .image p {
+
+    padding: 0px 50px !important;
+  }
+
+  section.amazing-features .features .image {
+    display: block !important;
+
+  }
+
+  section.mobile .container .txt-sec {
+
+    width: 98% !important;
+    padding: 0px !important;
+    display: block !important;
+  }
+
+  section.mob-2 .container .image-sec {
+
+    width: 80% !important;
+
+  }
+
+  section.mob-2 .container .text-sec {
+    width: 98% !important;
+    padding: 0px !important;
+    margin: 190px 0px 0px;
+  }
+
+  section.email {
+
+    display: block !important;
+    height: 350px !important;
+  }
+
+  section.email h3 {
+    font-size: 28px;
+    line-height: 40px;
+    text-align: center;
+    padding: 43px 0px 0px;
+
+  }
+
+  section.email p {
+    width: 98% !important;
+    margin-bottom: 20px !important;
+  }
+
+  section.email .wrap {
+    width: 96% !important;
+
+  }
+
+  section.services {
+    height: auto !important;
+    padding-bottom: 50px !important;
+  }
+  section.services .img1 {
+    left: 107px !important;
+    width: 54% !important;
+    top: -21px !important;
+  }
+  section.services .img1 img {
+    left: 0px !important;
+    width: 80% !important;
+    top: -13px !important;
+  }
+  section.services .img2 img {
+    width: 100% !important;
+    top: 30px !important;
+    left: 0 !important;
+  }
+  section.services .cards {
+    margin-top: 60px !important;
+  }
+  section.services h1 {
+    margin-top: -18px !important;
+    margin-left: 14px !important;
+    font-size: 49px !important;
+  }
+  section.services .cards .cards-in {
+    height: 150px !important;
+  }
+  section.services .cards .card {
+    width: 50% !important;
+  }
+  section.services .cards .card p {
+    padding: 0px 20px !important;
+    font-size: 15px !important;
+  }
+
+  section.avialable .sec1 {
+    width: 100% !important;
+  }
+  section.avialable .text-sec {
+    width: 96% !important;
+    padding-left: 0px !important;
+    margin: 0 auto !important;
+  }
+  section.news .container {
+    margin: 40px auto !important;
+  }
+  section.news .container .img {
+    width: 100% !important;
+    margin-bottom: 50px !important;
+  }
+  section.last {
+    height: auto !important;
+  }
+  section.last .container {
+    display: block !important;
+  }
+
+  section.last .img-sec,
+  section.last .img-sec img {
+
+    width: 100% !important;
+  }
+
+  section.last .text-sec {
+
+    margin-left: 0px !important;
+    padding-bottom: 40px !important;
+  }
+  .landing-nav {
+    display: none !important;
+  }
+  .avialable .mat-expansion-panel-header-title h5 {
+    font-size: 16px !important;
+  }
+  .footer{
+
+    bottom: 0% !important;
+  }
+  section.amazing-features .container{
+
+    margin-bottom: 100px !important;
+  }
+
+  /* ================================escrow page====================== */
+  .container {
+    width: 100% !important;
+  }
+
+  .list-menu .image {
+    width: 20px !important;
+  }
+
+  .list-menu {
+    font-size: 12px !important;
+  }
+
+  .details-1 {
+    border-collapse: collapse !important;
+  }
+
+  .details-1 tr {
+    display: inline-grid;
+    text-align: center !important;
+  }
+
+  .escrow-sec-1 .bg-change-2 {
+
+    box-shadow: none !important;
+
+  }
+
+  .escrow-sec-1 .container {
+    width: 96% !important;
+    margin: 10px auto !important;
+  }
+
+  .change-1 {
+    padding: 22px 0px 40px !important;
+    width: 20%;
+  }
+
+  .upload-block {
+
+    margin: 15px auto !important;
+    width: 96% !important;
+    text-align: center !important;
+
+  }
+
+  .select-files {
+    margin: 0px 0px 10px 0px !important;
+  }
+
+  .select-file-text {
+    width: 100% !important;
+    float: left !important;
+    text-align: center !important;
+    margin-top: 20px !important;
+  }
+
+  .pro-cont .inner-txt {
+    width: 50% !important;
+  }
+
+  /* ==========================Post-job============= */
+
+  .add-skills {
+    margin: 12px 0px 20px !important;
+  }
+
+  .delete-btn {
+    width: 9% !important;
+  }
+
+  .last-link {
+    padding: 20px 60px !important;
+  }
+
+  .post-job-1 .bg-change {
+    padding-bottom: 20px !important;
+  }
+
+  .start-now {
+    width: 100% !important;
+    padding: 12px 0px !important;
+    font-size: 16px !important;
+  }
+
+  .social-items {
+    margin: 0px 0px 20px;
+  }
+
+  .social-mobile {
+    display: block !important;
+  }
+
+  .social-mobile ul {
+    padding: 0 !important;
+  }
+
+  .large-screen {
+    display: none;
+  }
+
+  /* =============================Banner - 2 ========================== */
+  .market-place-sec-1 .main-sec {
+    max-width: 96% !important;
+
+  }
+
+  .market-place-sec-1 {
+
+    padding: 17% 0 !important;
+  }
+
+  .market-place-sec-1 .main-sec .banner {
+
+    display: block !important;
+
+  }
+
+  .market-place-sec-1 .banner .left-sec,
+  .market-place-sec-1 .banner .right-sec {
+
+
+    width: 100% !important;
+  }
+
+  /* =========================Marketing Sec 3 =========================== */
+  .marketing-sec-3 {
+
+    width: 94%;
+    margin: 0 auto;
+  }
+
+  .marketing-sec-5 .col-sm-3 {
+    width: 45%;
+
+  }
+
+  .market-place-sec-4 .tab-pane .img img.cont-img-2 {
+
+    width: 63% !important;
+    padding: 76px 0px !important;
+    margin: 0px 0px 0px 70px !important;
+
+  }
+
+  .marketing-sec-3 a {
+    margin: 0 auto 25px !important;
+
+  }
+
+  .marketing-sec-3 .sec-3-con h4 {
+    font-size: 24px;
+    padding-top: 20px;
+  }
+
+  /* ==============================Job proposal===================== */
+  .job-proposal .col-first {
+    width: 96% !important;
+  }
+
+  .job-proposal .content {
+    padding: 0px 20px 70px !important;
+  }
+
+  .job-proposal .content .content-link {
+
+    padding: 15px 116px !important;
+  }
+
+  .job-proposal-2 .input-amount {
+
+    width: 96%;
+    margin: 0 auto;
+  }
+
+  .job-proposal-2-1 .col-sm-10,
+  .job-proposal-2-1 .col-sm-1 {
+    width: auto !important;
+    padding: 0px !important;
+  }
+
+  /* ===============================Account Setting Page===================== */
+
+  .account-sec-1 .first-section {
+    display: block !important;
+    margin-top: 20px !important;
+  }
+
+  .account-sec-1 .first-section .first-section-links {
+    width: 100% !important;
+  }
+
+  .account-sec-1 .nav-pills .nav-link {
+    padding: 06px 10px !important;
+    font-size: 18px !important;
+  }
+
+  .account-sec-1 .first-section .tab-content {
+    width: 100% !important;
+    margin: 0px !important;
+  }
+
+  .account-sec-1 .tab-pane .content .desc {
+    padding: 18px 0px 18px 0px !important;
+  }
+
+  .account-sec-1 .tab-pane .content .heading-sec h2 {
+    font-size: 20px !important;
+  }
+
+  .account-sec-1 .options-sec .option {
+    padding: 0px 29px 0px 14px !important;
+  }
+
+  .account-sec-1 .tab-pane .content .desc .password {
+    margin-bottom: 15px !important;
+  }
+
+  .account-sec-2 table {
+
+    text-align: center;
+    margin: 30px 0px !important;
+  }
+
+  .account-sec-2 table td {
+    width: 96%;
+    display: table-row;
+  }
+
+  .account-sec-2 table td span {
+    margin: 0px !important;
+  }
+
+  /* ================================Person Profile======================= */
+  .position-row {
+    margin: 0px !important;
+    padding-top: 24px !important;
+  }
+
+  .title-list .float-end {
+    width: 100% !important;
+  }
+
+  .person-profile-1 .user-content-1 a {
+    color: #FF5850;
+  }
+
+  .person-profile-1 .main-h2 {
+    font-size: 27px !important;
+    line-height: 36px !important;
+    margin-top: 50px !important;
+  }
+
+  .footer-nav,
+  .footer-nav li {
+
+    display: inline !important;
+  }
+
+  .footer-nav li {
+    margin: 0px 0px 0px 3px;
+
+  }
+/* =============================dashboard */
+
+section.recent .card1{
+
+  overflow: scroll;
+  margin-bottom: 20px;
+}
+section.recent .card1 table{
+  width: 650px !important;
+
+}
+section.recent .col-sm-4{
+
+  padding: 0px 12px !important;
+}
+
+
+}

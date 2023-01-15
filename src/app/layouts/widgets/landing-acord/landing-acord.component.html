@@ -1,0 +1,116 @@
+<div class="item">
+  <mat-accordion
+  >
+    <mat-expansion-panel
+      (opened)="panelOpenState = true"
+      (closed)="panelOpenState = false"
+      hideToggle [expanded]="panelOpenState"
+    >
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          <h5>Is the app available in all countries?</h5>
+        </mat-panel-title>
+        <mat-panel-description openAll>
+          <h5>
+          {{panelOpenState ? "-" : "+"}}
+        </h5>
+      </mat-panel-description>
+      </mat-expansion-panel-header>
+      <p>
+        Lorem Ipsum is simply dummy text of the printing and type- setting
+        industry. Lorem Ipsum has been the industry's stan- dard
+      </p>
+    </mat-expansion-panel>
+  </mat-accordion>
+
+  <mat-accordion multi>
+    <mat-expansion-panel
+      (opened)="panelOpenState2 = true"
+      (closed)="panelOpenState2 = false"
+      hideToggle
+    >
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          <h5>Is the app available in all countries?</h5>
+        </mat-panel-title>
+        <mat-panel-description>
+          <h5>
+          {{panelOpenState2 ? "-" : "+"}}
+        </h5>
+      </mat-panel-description>
+      </mat-expansion-panel-header>
+      <p>
+        Lorem Ipsum is simply dummy text of the printing and type- setting
+        industry. Lorem Ipsum has been the industry's stan- dard
+      </p>
+    </mat-expansion-panel>
+  </mat-accordion>
+
+  <mat-accordion multi>
+    <mat-expansion-panel
+      (opened)="panelOpenState3 = true"
+      (closed)="panelOpenState3 = false"
+      hideToggle
+    >
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          <h5>Is the app available in all countries?</h5>
+        </mat-panel-title>
+        <mat-panel-description>
+          <h5>
+          {{panelOpenState3 ? "-" : "+"}}
+        </h5>
+      </mat-panel-description>
+      </mat-expansion-panel-header>
+      <p>
+        Lorem Ipsum is simply dummy text of the printing and type- setting
+        industry. Lorem Ipsum has been the industry's stan- dard
+      </p>
+    </mat-expansion-panel>
+  </mat-accordion>
+
+  <mat-accordion multi>
+    <mat-expansion-panel
+      (opened)="panelOpenState4 = true"
+      (closed)="panelOpenState4 = false"
+      hideToggle
+    >
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          <h5>Is the app available in all countries?</h5>
+        </mat-panel-title>
+        <mat-panel-description>
+          <h5>
+          {{panelOpenState4 ? "-" : "+"}}
+        </h5>
+      </mat-panel-description>
+      </mat-expansion-panel-header>
+      <p>
+        Lorem Ipsum is simply dummy text of the printing and type- setting
+        industry. Lorem Ipsum has been the industry's stan- dard
+      </p>
+    </mat-expansion-panel>
+  </mat-accordion>
+
+  <mat-accordion multi>
+    <mat-expansion-panel
+      (opened)="panelOpenState5 = true"
+      (closed)="panelOpenState5 = false"
+      hideToggle >
+      <mat-expansion-panel-header>
+        <mat-panel-title>
+          <h5>Is the app available in all countries?</h5>
+        </mat-panel-title>
+        <mat-panel-description>
+          <h5>
+          {{panelOpenState5 ? "-" : "+"}}
+        </h5>
+      </mat-panel-description>
+      </mat-expansion-panel-header>
+      <p>
+        Lorem Ipsum is simply dummy text of the printing and type- setting
+        industry. Lorem Ipsum has been the industry's stan- dard
+      </p>
+    </mat-expansion-panel>
+  </mat-accordion>
+</div>

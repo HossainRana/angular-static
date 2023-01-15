@@ -1,0 +1,32 @@
+.mat-form-field + .mat-form-field {
+  margin-left: 8px;
+}
+.mat-expansion-panel-header-description {
+  flex-grow: 0 !important;
+}
+.mat-expansion-panel{
+  box-shadow: none !important;
+  background: none!important;
+}
+  .mat-expansion-panel-header{
+    padding: 0px !important;
+}
+h5 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 23px;
+    line-height: 34px;
+    margin-bottom: 0;
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    align-items: center;
+    color: #394551;
+}
+.ng-trigger-bodyExpansion .mat-expansion-panel-body {
+  padding: 0 24px 0px !important;
+}
+.item p{
+  font-size: 14.5px !important;
+}

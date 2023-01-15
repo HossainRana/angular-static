@@ -1,0 +1,31 @@
+.container {
+  margin: 0 auto;
+}
+.footer{
+background: #F3F3F3;
+position: relative;
+}
+.row{
+
+  padding:30px 0px;
+}
+.footer-nav{
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 153.5%;
+  /* identical to box height, or 28px */
+
+}
+.footer-nav li a{
+  color: #000000;
+}
+.footer-logo{
+  font-size:25px;
+
+}
+.linkedin-footer{
+  margin-left: 30px;
+}

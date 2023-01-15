@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+section.header {
+  background: white;
+  border-bottom: 1.2px solid #4EABF2;
+}
+.header .container{
+
+  padding: 27px 0px 10px;
+}
+.listing-btn{
+
+  color: #4EABF2;
+  border: 1px solid;
+  border-radius: 4px;
+  padding: 9px 20px;
+  background: none;
+}
+.drop-down-main{
+
+    color: #4EABF2;
+    border: 1px solid;
+    border-radius: 4px;
+    padding: 0px 20px;
+    background: none ;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+}
+.down-icon{
+  height: 17px;
+  padding: 0px 0px 0px 4px;
+}
+.ng-tns-c46-0{
+  width: 188px;
+  font-size: 15px;
+  font-weight: 500;
+  margin: 0px 8px;
+}
+.nav-bar .sub-menu li{
+
+    display: block;
+
+  }
+  .menu-2{
+    position: absolute;
+    z-index: 1;
+    right: 0px;
+
+  }
+  .nav-bar li{
+
+    list-style: none;
+    display: inline;
+  }
+.nav-bar li a, .nav-bar li span {
+  text-decoration: none !important;
+  color: #4EABF2;
+  margin: 0px 14px;
+}
+.nav-bar li span {
+  cursor: pointer;
+}
+
+.nav-bar{
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 40px;
+  /* identical to box height */
+  letter-spacing: -0.01em;
+  color: #237FC8;
+  text-transform: uppercase;
+  position: relative;
+  padding: 0px;
+  text-align: right;
+}
+.button{
+  border: 2px solid #4EABF2;
+  border-radius: 3px;
+  padding: 10px 15px;
+  color: #4EABF2;
+
+}
+/* ==========================mobile-nav=================== */
+
+.wrap {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.mobile-nav{
+
+  display:none;
+}
+.burger {
+  width: 55px;
+  height: 55px;
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  transition: all .5s ease;
+  margin: 1em;
+}
+.burger:hover {
+  background: rgb(56 56 56);
+}
+.burger-strip {
+  transition: all .5s ease;
+}
+.strip div {
+  height: 3px;
+  border-radius: 2px;
+  background: rgb(56 56 56);
+  margin: 10px;
+  transition: all .55s cubic-bezier(0.075, 0.82, 0.165, 1);
+  width: 40px;
+}
+.burger:hover .strip div {
+  background: white;
+}
+/* BURGER 5 */
+.burger-strip-5 div {
+  /* margin: 10px auto; */
+  transition: all .65s cubic-bezier(0.075, 0.82, 0.165, 1)
+}
+.burger:hover .burger-strip-5 div:first-child {
+  transform: translateY(13px) rotate(0deg) ;
+}
+.burger:hover .burger-strip-5 div:nth-child(2) {
+  opacity: 0;
+}
+.burger:hover .burger-strip-5 div:last-child {
+  transform: translateY(-13px) rotate(90deg) ;
+}
+.burger:hover .burger-strip-5 {
+  transform: scale(.7) rotate(45deg);
+  transition: all .25s ease .05s;
+}
+
+.big-menu .mat-menu-item{
+
+  display: contents;
+  font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 40px;
+    letter-spacing: -0.01em;
+    color: #4EABF2;
+    text-transform: uppercase;
+    position: relative;
+    padding: 0px;
+    text-align: right;
+
+
+}
+.scrolled .big-menu .mat-menu-item{
+
+  color: #ffffff;
+}
