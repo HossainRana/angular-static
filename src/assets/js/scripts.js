@@ -38,8 +38,4 @@ document.querySelectorAll('section.avialable .text-sec .item').forEach((e)=>{
 	})
 });
 
-var nav = document.getElementById("navToggle");
-nav.addEventListener('click',  ()=>{
-  console.log('test');
-})
 
