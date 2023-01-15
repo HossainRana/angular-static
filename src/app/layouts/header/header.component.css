@@ -1,5 +1,51 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
 
+#header nav{
+  padding: 0.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#header .navbar.bg-light{
+  box-shadow: 0 9px 68px 0 rgb(62 57 107 / 10%);
+}
+#header .navbar-brand{
+  width: 200px;
+  padding: 15px 0;
+}
+#header nav .navbar-collapse ul{
+  margin-left: auto !important;
+}
+#header .nav-item .nav-link{
+  padding-right: 1rem;
+  padding-left: 1rem;
+  color: rgba(0,0,0,.5);
+  font-size: 16px;
+  text-align: center;
+  position: relative;
+}
+#header .nav-item .btn{
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 16px;
+  text-align: center;
+  position: relative;
+}
+#header .btn{
+  text-transform: uppercase;
+  font-size: 14px;
+  border-radius: 30px;
+  -webkit-transition: all .3s ease;
+  -o-transition: all .3s ease;
+  transition: all .3s ease;
+}
+.nav-item{
+  cursor: pointer;
+}
+
+/*====================*/
 section.header {
   background: white;
   border-bottom: 1.2px solid #4EABF2;
@@ -166,3 +212,4 @@ section.header {
 
   color: #ffffff;
 }
+

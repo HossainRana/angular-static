@@ -24,7 +24,7 @@ function bid(){
 function close_popups() {
 	var popups = document.querySelectorAll(".popup");
 	var overlay = document.querySelector('.pop-ups .overlay');
-	
+
 	overlay.classList.remove('active');
 
 	for(var i of popups){
@@ -37,3 +37,9 @@ document.querySelectorAll('section.avialable .text-sec .item').forEach((e)=>{
 		e.classList.toggle('active');
 	})
 });
+
+var nav = document.getElementById("navToggle");
+nav.addEventListener('click',  ()=>{
+  console.log('test');
+})
+
