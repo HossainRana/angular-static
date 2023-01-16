@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
 
+
+#header .container{
+  width: 1140px;
+}
 #header nav{
   padding: 0.4rem;
   display: flex;
@@ -10,28 +14,31 @@
   box-shadow: 0 9px 68px 0 rgb(62 57 107 / 10%);
 }
 #header .navbar-brand{
-  width: 200px;
-  padding: 13px 0;
+  padding: 0.59rem 0;
 }
 #header nav .navbar-collapse ul{
   margin-left: auto !important;
 }
 #header .nav-item .nav-link{
-  padding-right: 1rem;
-  padding-left: 1rem;
+  padding: .3em 1em;
   color: rgba(0,0,0,.5);
   font-size: 16px;
   text-align: center;
   position: relative;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+#header .nav-item .nav-link:hover{
+  color: rgba(0,0,0,.7);
 }
 #header .nav-item .btn{
   margin-left: 10px;
   margin-right: 10px;
   padding-left: 15px;
   padding-right: 15px;
-  font-size: 16px;
+  font-size: 14px;
   text-align: center;
   position: relative;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 }
 #header .btn{
   text-transform: uppercase;
@@ -44,7 +51,29 @@
 .nav-item{
   cursor: pointer;
 }
+.gradient-mask{
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  background-image: -webkit-gradient(linear,left top,right top,from(#7642FF),to(#4259ff));
+  font-family: product sans,Helvetica,Arial,serif;
+}
+.btn-primary{
+  background: #7642ff !important;
+}
+.btn-outline-primary{
+  color: #7642ff !important;
+}
+#header .down-icon{
+  padding: 0 !important;
+  margin-left: -4px;
+}
+@media (max-width: 992px) {
 
+}
+#mat-menu-panel-0{
+  position: absolute !important;
+}
 /*====================*/
 section.header {
   background: white;
